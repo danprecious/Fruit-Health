@@ -1,0 +1,14 @@
+.card{
+    max-width: 10em;
+    padding: .5em;
+    color: black;
+}
+
+.navbar{
+    background-color: black;
+    color: red;
+}
+.searchBox{
+    width: 20em;
+    padding: 1em;
+}
